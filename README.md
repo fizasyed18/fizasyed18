@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Fiza Syed!<br><br>I'm a Data Analyst with a growing passion for Agentic AI. My journey started with transforming data into meaningful insights, and I'm now exploring how intelligent AI systems can reason, make decisions, use tools, and automate real-world tasks. 🚀<br><br>🌟 About Me<br><br>🎓 Background: Masters in Electrical Engineering<br>📊 Data Analytics: Completed a Data Analytics Bootcamp<br>🤖 Currently Learning: Agentic AI & Generative AI<br>💡 Interested In: AI Agents, Automation, RAG & Intelligent Applications<br>📈 Passionate About: Turning data into actionable insights<br>🚀 Goal: Build practical AI & data-driven solutions for real-world problems
+# 👋 Hi, I'm Fiza Syed!
+<br><br>I'm a Data Analyst with a growing passion for Agentic AI. My journey started with transforming data into meaningful insights, and I'm now exploring how intelligent AI systems can reason, make decisions, use tools, and automate real-world tasks. 🚀<br><br>🌟 About Me<br><br>🎓 Background: Masters in Electrical Engineering<br>📊 Data Analytics: Completed a Data Analytics Bootcamp<br>🤖 Currently Learning: Agentic AI & Generative AI<br>💡 Interested In: AI Agents, Automation, RAG & Intelligent Applications<br>📈 Passionate About: Turning data into actionable insights<br>🚀 Goal: Build practical AI & data-driven solutions for real-world problems
 
 
 ## 🌐 Socials:
